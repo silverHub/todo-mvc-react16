@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test with react-test-renderer if renders, snapshot 1`] = `
+<footer
+  className="info"
+>
+  <Input />
+  <p>
+    Double-click to edit a todo
+  </p>
+  <p>
+    Created by Iurii Bura, Konrad Hefelle, Tamas Hoffman
+  </p>
+  <p>
+    Inspired by 
+    <a
+      href="http://todomvc.com"
+    >
+      TodoMVC
+    </a>
+  </p>
+</footer>
+`;

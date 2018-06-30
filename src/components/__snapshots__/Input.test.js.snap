@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Input if renders 1`] = `
+<input
+  autoFocus={true}
+  className="new-todo"
+  onChange={[Function]}
+  onKeyDown={[Function]}
+  placeholder="What needs to be done?"
+  value=""
+/>
+`;

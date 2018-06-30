@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing TodoList if renders if not todos 1`] = `
+<ul
+  className="todo-list"
+/>
+`;
+
+exports[`testing TodoList if renders if not todos 2`] = `
+<ul
+  className="todo-list"
+>
+  <TodoListItem
+    key="1"
+    todo={
+      Object {
+        "id": 1,
+      }
+    }
+  />
+  <TodoListItem
+    key="2"
+    todo={
+      Object {
+        "id": 2,
+      }
+    }
+  />
+  <TodoListItem
+    key="3"
+    todo={
+      Object {
+        "id": 3,
+      }
+    }
+  />
+</ul>
+`;
