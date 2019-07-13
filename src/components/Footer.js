@@ -8,7 +8,7 @@ function Footer(props) {
 	return (
 		<footer className="footer">
 			<span
-				className="todo-count"><strong>{nbrOfIncompleteTodos}</strong> item{nbrOfIncompleteTodos !== 1 ? 's' : ''}
+				className="todo-count"><strong>{nbrOfIncompleteTodos}</strong> item{nbrOfIncompleteTodos !== 1 ? 's' : ''}&nbsp;
 				left</span>
 			<ul className="filters">
 				<li>
